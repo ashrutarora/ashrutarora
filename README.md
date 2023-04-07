@@ -7,17 +7,17 @@
 	<img src="https://komarev.com/ghpvc/?username=ashrut1011&label=Profile%20views&color=0047AB&style=plastic?" alt="ashrut1011" height=25px, width=120xpx/> 
 </p>
 
-## <picture><img src = "https://github.com/ashrut1011/ashrut1011/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width = 100px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/ashrut1011/ashrut1011/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
+<img align = right alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
+<br>
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- :school: `Sophmore` at [Data Science & Engineering](https://manipal.edu/mit/program-list/btech/btech-data-science-and-engineering.html) at [Manipal Institute Of Technology](https://manipal.edu/mu.html).
+- :student: I’m currently learning `Software Engineering` and `Machine Learning`.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :nerd_face: Always `learning new things`.
+- :wave: I’m currently open for an `Intern` or a `New Job Opportunity`.
 
 <br><br>
 
@@ -25,4 +25,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrut1011&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Contributions:
+## My Contributions
