@@ -26,4 +26,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrut1011&hide_progress=true&theme=aura)](https://github.com/ashrut1011/github-readme-stats)
 
 ## My Contributions
-<img src="https://raw.githubusercontent.com/ashrut1011/ashrut1011/output/github-contribution-grid-snake.svg" />
+![Snake animation](https://github.com/ashrut1011/ashrut1011/blob/output/github-contribution-grid-snake.svg)
+
