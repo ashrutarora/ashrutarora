@@ -9,7 +9,7 @@
 
 ## <picture><img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width = 100px></picture> **About me**
 
-<img align = right alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
+<img align = right alt="Coder GIF" height=250 width=300 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 <br>
 <br>
 
