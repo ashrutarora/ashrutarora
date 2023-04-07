@@ -26,3 +26,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrut1011&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Contributions
+![snake gif](https://github.com/ashrut1011/ashrut1011/blob/output/github-contribution-grid-snake.gif)
