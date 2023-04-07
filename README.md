@@ -7,9 +7,9 @@
 	<img src="https://komarev.com/ghpvc/?username=ashrut1011&label=Profile%20views&color=0047AB&style=plastic?" alt="ashrut1011" height=25px, width=120xpx/> 
 </p>
 
-## <picture><img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width = 100px></picture> **About me**
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
-<img align = right alt="Coder GIF" height=250 width=300 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 <br>
 <br>
 
@@ -19,7 +19,7 @@
 - :nerd_face: Always `learning new things`.
 - :wave: I’m currently open for an `Intern` or a `New Job Opportunity`.
 
-<br><br>
+<br><br><br><br>
 
 ![Ashruts's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrut1011&show_icons=true&theme=transparent)
 
