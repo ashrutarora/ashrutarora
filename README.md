@@ -21,9 +21,9 @@
 
 <br><br><br><br>
 
-![Ashruts's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrut1011&show_icons=true&theme=transparent)
+![Ashruts's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrut1011&show_icons=true&theme=aura)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrut1011&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrut1011&hide_progress=true&theme=aura)](https://github.com/ashrut1011/github-readme-stats)
 
 ## My Contributions
 <img src="https://raw.githubusercontent.com/ashrut1011/ashrut1011/output/github-contribution-grid-snake.svg" />
