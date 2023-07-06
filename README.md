@@ -13,7 +13,7 @@
 <br>
 <br>
 
-- :school: `sophomore` at [Data Science & Engineering](https://manipal.edu/mit/program-list/btech/btech-data-science-and-engineering.html) at [Manipal Institute Of Technology](https://manipal.edu/mu.html).
+- :school: `Sophomore` at [Data Science & Engineering](https://manipal.edu/mit/program-list/btech/btech-data-science-and-engineering.html) at [Manipal Institute Of Technology](https://manipal.edu/mu.html).
 - :student: I’m currently learning `Web Development` and `Machine Learning`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
