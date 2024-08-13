@@ -4,7 +4,7 @@
 
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=ashrut1011&label=Profile%20views&color=0047AB&style=plastic?" alt="ashrut1011" height=25px, width=120xpx/> 
+	<img src="https://komarev.com/ghpvc/?username=ashrutarora&label=Profile%20views&color=0047AB&style=plastic?" alt="ashrutarora" height=25px, width=120xpx/> 
 </p>
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
@@ -21,10 +21,6 @@
 
 <br><br><br><br>
 
-![Ashruts's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrut1011&show_icons=true&theme=aura)
+![Ashruts's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrutarora&show_icons=true&theme=aura)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrut1011&hide_progress=true&theme=aura)](https://github.com/ashrut1011/github-readme-stats)
-
-## My Contributions
-![Snake animation](https://github.com/ashrut1011/ashrut1011/blob/output/github-contribution-grid-snake.svg)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrutarora&hide_progress=true&theme=aura)](https://github.com/ashrutarora/github-readme-stats)
