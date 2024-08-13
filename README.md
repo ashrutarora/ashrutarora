@@ -13,8 +13,8 @@
 <br>
 <br>
 
-- :school: `Pre-Final Year Student` at [Data Science & Engineering](https://manipal.edu/mit/program-list/btech/btech-data-science-and-engineering.html) at [Manipal Institute Of Technology](https://manipal.edu/mu.html).
-- :student: I’m currently learning `Web Development` and `Machine Learning`.
+- :school: `Final Year Student` at [Data Science & Engineering](https://manipal.edu/mit/program-list/btech/btech-data-science-and-engineering.html) at [Manipal Institute Of Technology, Manipal](https://manipal.edu/mu.html).
+- :student: I’m currently learning `Web Development` and `Artificial Intelligence`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 - :wave: I’m currently open for an `Intern` or a `New Job Opportunity`.
