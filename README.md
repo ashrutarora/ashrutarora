@@ -13,19 +13,21 @@
 
 ---
 
+Here's your tech stack with all icons aligned in the same line for each subheading:
+
 ### 🛠️ Tech Stack
 
 **Languages:**
 
-![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![SQL](https://skillicons.dev/icons?i=mysql) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/) [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/) [![SQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 **Frameworks & Libraries:**
 
-![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![Spring Boot](https://skillicons.dev/icons?i=spring) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Selenium](https://skillicons.dev/icons?i=selenium)
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/) [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/) [![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/) [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot) [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/) [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/) [![Selenium](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev/)
 
 **Developer Tools:**
 
-![Git](https://skillicons.dev/icons?i=git) ![Docker](https://skillicons.dev/icons?i=docker) ![Google Cloud](https://skillicons.dev/icons?i=gcp) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) ![PyCharm](https://skillicons.dev/icons?i=pycharm) ![IntelliJ](https://skillicons.dev/icons?i=idea) ![Eclipse](https://skillicons.dev/icons?i=eclipse)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/) [![Google Cloud](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/) [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/) [![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/) [![IntelliJ](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/) [![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/)
 
 ---
 
