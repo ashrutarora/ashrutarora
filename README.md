@@ -13,8 +13,6 @@
 
 ---
 
-Here's your tech stack with all icons aligned in the same line for each subheading:
-
 ### 🛠️ Tech Stack
 
 **Languages:**
