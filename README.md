@@ -9,6 +9,7 @@
 - 📚 Constantly learning and exploring new technologies
 - 🤝 Open to collaborating on Full Stack & AI Projects
 - 💼 Actively seeking `Internships` and `Job Opportunities`
+- ✍️ I write at [ashrutarora.github.io](https://ashrutarora.github.io/): interview experiences like [Rystad Energy (Data Analyst)](https://ashrutarora.github.io/interview-experiences/rystad-energy/)
 - 📪 Contact me at [ashrutarora2@gmail.com](mailto:ashrutarora2@gmail.com)
 
 ---
@@ -46,5 +47,7 @@
 ### 📫 Connect with me
 [![React](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ashrutarora/)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:ashrutarora2@gmail.com)
+
+🌐 Website: [ashrutarora.github.io](https://ashrutarora.github.io/)
 
 
