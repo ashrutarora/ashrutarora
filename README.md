@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Ashrut Arora <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## 🌟 About Me 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="30%">
 
 - 💼 Data Analyst at [Rystad Energy](https://www.rystadenergy.com/)
 - 🎓 `Data Science & Engineering` graduate from [MIT, Manipal](https://manipal.edu/mu.html) (2025)
@@ -12,7 +11,7 @@
 - 🧰 Available for freelance automation and data work
 - 📬 Open to `Job Opportunities`
 - ✍️ I write at [ashrutarora.github.io](https://ashrutarora.github.io/): interview experiences like [Rystad Energy (Data Analyst)](https://ashrutarora.github.io/interview-experiences/rystad-energy/)
-- 📪 Contact me at [ashrutarora2@gmail.com](mailto:ashrutarora2@gmail.com)
+- 📪 Contact me at [ashrutarora@gmail.com](mailto:ashrutarora@gmail.com)
 
 ---
 
@@ -40,26 +39,17 @@
 
 ---
 
-### 🚀 Major Projects
+### 🚀 Projects
 
 - **🖨️ [`Ricoh SP 210 driver for macOS`](https://github.com/ashrutarora/ricoh-sp210-macos)**:  
-  Native printer driver and scanner service for a printer Ricoh never supported on Mac; output byte-for-byte identical to Ricoh's own Linux driver.
-
-- **🌍 [`Geospatial Analysis Tool`](https://github.com/ashrutarora/retail-store-geospatial-analysis)**:  
-  Optimize retail store placements using geospatial data and interactive maps for strategic decision-making.
-
-- **📈 `AI-Campaign Recommender System`**:  
-  Boost campaign budget efficiency with data-driven insights and recommendations powered by large language models (LLMs).
-
-- **💻 [`WebDev Compiler`](https://github.com/ashrutarora/webdev-compiler)**:  
-  Real-time web-based compiler for HTML, CSS, and JavaScript, offering instant code compilation and live previews.
+  Native printer driver, scanner service and installer for a printer Ricoh never supported on Mac, reverse-engineered from Ricoh's Linux and Windows drivers. Output is byte-for-byte identical to Ricoh's own Linux driver, and it prints from iPhone and iPad too.
 
 ---
 
 
 ### 📫 Connect with me
 [![React](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ashrutarora/)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:ashrutarora2@gmail.com)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:ashrutarora@gmail.com)
 
 🌐 Website: [ashrutarora.github.io](https://ashrutarora.github.io/)
 
